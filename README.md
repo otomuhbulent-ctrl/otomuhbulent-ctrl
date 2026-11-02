@@ -5,7 +5,7 @@ Türkçe yapay zekâ ve yerli AI ekosistemiyle ilgileniyorum. Türkçe kaynaklar
 ### 🔭 Şu an üzerinde çalıştıklarım
 
 - **[evren-cookbook](https://github.com/otomuhbulent-ctrl/evren-cookbook)**: [EVREN](https://evren.ssyz.org.tr) yapay zekâ platformu için çalışan, test edilmiş Türkçe örnekler (ilk örnek: taranmış Türkçe PDF'e kaynak göstererek soru-cevap)
-- **[awesome-turkce-ai](https://github.com/otomuhbulent-ctrl/awesome-turkce-ai)**: Türkçe yapay zekâ modelleri, veri setleri ve araçları için derlenmiş açık kaynak liste ve [EVREN başlangıç rehberi](https://github.com/otomuhbulent-ctrl/awesome-turkce-ai/blob/main/rehberler/evren-baslangic-rehberi.md)
+- **[awesome-turkce-ai](https://github.com/otomuhbulent-ctrl/awesome-turkce-ai)**: Türkçe yapay zekâ modelleri, veri setleri ve araçları için derlenmiş açık kaynak liste ([aranabilir site](https://otomuhbulent-ctrl.github.io/awesome-turkce-ai/)) ve [EVREN başlangıç rehberi](https://github.com/otomuhbulent-ctrl/awesome-turkce-ai/blob/main/rehberler/evren-baslangic-rehberi.md)
 - **[evren-sdk](https://github.com/speker/evren-sdk)** katkısı: EVREN'in resmî Python SDK'sına otomatik test iş akışı ([PR #4](https://github.com/speker/evren-sdk/pull/4))
 
 ### 🌱 İlgi alanlarım
