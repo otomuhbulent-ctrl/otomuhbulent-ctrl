@@ -14,7 +14,7 @@ Türkçe yapay zekâ ve [EVREN](https://evren.ssyz.org.tr) ekosistemine yaptığ
 
 | Proje | Ne yapıyor | Doğrulama |
 |---|---|---|
-| [evren-cookbook](https://github.com/otomuhbulent-ctrl/evren-cookbook) | EVREN için çalışan, test edilmiş Türkçe örnekler. İlk örnek: taranmış Türkçe PDF'e OCR + embedding + rerank ile sayfa atıflı soru-cevap; uydurma atıfları yakalayan denetim. | [CI](https://github.com/otomuhbulent-ctrl/evren-cookbook/actions/workflows/test.yml) (anahtarsız testler) · gerçek EVREN API çıktıları [örnek README'sinde](https://github.com/otomuhbulent-ctrl/evren-cookbook/tree/main/examples/01-pdf-soru-cevap) tarihli olarak |
+| [evren-cookbook](https://github.com/otomuhbulent-ctrl/evren-cookbook) | EVREN için çalışan, test edilmiş Türkçe örnekler. İlk örnek: taranmış Türkçe PDF'e OCR + embedding + rerank ile sayfa atıflı soru-cevap; uydurma atıfları yakalayan denetim. Resmî KVKK metninde (21 sayfa) 5 soruyla doğrulandı: doğru madde/sayfa atıfları ve belgede olmayan sorulara doğru ret. | [CI](https://github.com/otomuhbulent-ctrl/evren-cookbook/actions/workflows/test.yml) (anahtarsız testler) · gerçek EVREN API çıktıları [örnek README'sinde](https://github.com/otomuhbulent-ctrl/evren-cookbook/tree/main/examples/01-pdf-soru-cevap) tarihli olarak |
 | [awesome-turkce-ai](https://github.com/otomuhbulent-ctrl/awesome-turkce-ai) | Türkçe yapay zekâ modelleri, veri setleri, araçları ve platformları için derlenmiş liste. | Haftalık [link kontrolü](https://github.com/otomuhbulent-ctrl/awesome-turkce-ai/actions/workflows/link-check.yml) · [aranabilir site](https://otomuhbulent-ctrl.github.io/awesome-turkce-ai/) |
 
 ## Yayımlanmış içerik
