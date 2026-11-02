@@ -8,6 +8,8 @@ Türkçe yapay zekâ ve yerli AI ekosistemiyle ilgileniyorum. Türkçe kaynaklar
 - **[awesome-turkce-ai](https://github.com/otomuhbulent-ctrl/awesome-turkce-ai)**: Türkçe yapay zekâ modelleri, veri setleri ve araçları için derlenmiş açık kaynak liste ([aranabilir site](https://otomuhbulent-ctrl.github.io/awesome-turkce-ai/)) ve [EVREN başlangıç rehberi](https://github.com/otomuhbulent-ctrl/awesome-turkce-ai/blob/main/rehberler/evren-baslangic-rehberi.md)
 - **[evren-sdk](https://github.com/speker/evren-sdk)** katkısı: EVREN'in resmî Python SDK'sına otomatik test iş akışı ([PR #4](https://github.com/speker/evren-sdk/pull/4))
 
+📋 Tüm katkılarım ve doğrulama bağlantıları: **[KATKILAR.md](KATKILAR.md)**
+
 ### 🌱 İlgi alanlarım
 
 Türkçe doğal dil işleme · Büyük dil modelleri · Açık kaynak · Yerli yapay zekâ
