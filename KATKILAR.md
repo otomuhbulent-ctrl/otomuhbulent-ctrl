@@ -2,13 +2,13 @@
 
 Türkçe yapay zekâ ve [EVREN](https://evren.ssyz.org.tr) ekosistemine yaptığım açık kaynak katkıların listesi. Her madde doğrulanabilir bir bağlantıya dayanır; durumlar aşağıdaki tarih itibarıyladır.
 
-*Son güncelleme: 2 Kasım 2026*
+*Son güncelleme: 5 Kasım 2026*
 
 ## Upstream katkılar
 
 | Proje | Katkı | Durum |
 |---|---|---|
-| [speker/evren-sdk](https://github.com/speker/evren-sdk) (EVREN'in resmî Python SDK'sı) | [PR #4](https://github.com/speker/evren-sdk/pull/4): Python 3.10–3.13 matrisinde `pytest` çalıştıran CI iş akışı. Uygulama koduna dokunmaz, secret gerektirmez. Fork'ta 4 sürümde 46/46 test geçti. | 🟡 Açık, bakımcı incelemesi bekleniyor |
+| [speker/evren-sdk](https://github.com/speker/evren-sdk) (EVREN'in resmî Python SDK'sı) | [PR #4](https://github.com/speker/evren-sdk/pull/4): Python 3.10–3.13 matrisinde `pytest` çalıştıran CI iş akışı. Uygulama koduna dokunmaz, secret gerektirmez. Fork'ta 4 sürümde 46/46 test geçti. | ✅ Kabul edildi, 4 Kasım 2026'da `main`'e alındı ([49d7101](https://github.com/speker/evren-sdk/commit/49d7101)) |
 
 ## Kendi projelerim
 
